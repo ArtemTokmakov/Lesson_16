@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b34d60e5-a157-4354-a23d-57e1cef6a2ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/aston/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/LICENSE.chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MtsBYTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/LICENSE.chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/LICENSE.chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MtsBYTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MtsBYTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +48,11 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/TemaTokmakov/IdeaProjects/Lesson_16",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MtsBYTest">
+  <component name="RunManager" selected="JUnit.MtsBYTest.emptyFieldsCommunicationServiceTest">
     <configuration name="MtsBYTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lesson_16" />
       <option name="PACKAGE_NAME" value="" />
@@ -66,11 +62,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MtsBYTest.testEmptyFieldsCommunicationService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MtsBYTest.emptyFieldsCommunicationServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lesson_16" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MtsBYTest" />
-      <option name="METHOD_NAME" value="testEmptyFieldsCommunicationService" />
+      <option name="METHOD_NAME" value="emptyFieldsCommunicationServiceTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MtsBYTest.emptyFieldsCommunicationServiceTest" />
         <item itemvalue="JUnit.MtsBYTest" />
         <item itemvalue="JUnit.MtsBYTest.testPhoneNumberInPaymentWindow" />
         <item itemvalue="JUnit.MtsBYTest.testPaymentSystemIconsInPaymentWindow" />
         <item itemvalue="JUnit.MtsBYTest.testEmptyFieldsHomeInternet" />
-        <item itemvalue="JUnit.MtsBYTest.testEmptyFieldsCommunicationService" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +116,7 @@
     <attachedChunks>
       <set>
         <option value="jdk-11.0.21-corretto-11.0.21-4caba194b151-9f4ef98c" />
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
       </set>
     </attachedChunks>
   </component>

@@ -20,7 +20,7 @@ public class MtsBYTest {
     @BeforeEach
     public void SetUp() {
         System.setProperty("webdriver.chrome.driver",
-                "C:\\Users\\TemaTokmakov\\IdeaProjects\\AqaAstonHW\\src\\main\\resources\\chromedriver-win64\\chromedriver.exe");
+                "src/main/resources/chromedriver.exe");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
